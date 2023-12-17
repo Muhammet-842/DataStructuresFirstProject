@@ -5,3 +5,5 @@
 -> Linked List
 
 -> Doubly Linked List
+
+For more information check the doc file.
